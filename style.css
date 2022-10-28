@@ -1,0 +1,67 @@
+*{
+    background-color:#E9ECEF;
+}
+.navbar{
+    text-align: center;
+    text-decoration:none;
+    list-style-type:none;
+color: darkcyan;
+    
+    
+}
+.navbar li{
+    display: inline-block;
+    margin: 10px;
+    
+
+}
+.navbar li a{
+    text-decoration:none
+    
+    
+}
+.navbar li a :hover{
+color: aquamarine;
+}
+.jumbotron{
+    text-align: center;
+}
+.urunler{
+    text-align: center;
+}
+.row{
+    display:block;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: auto 10rem;
+    
+  }
+  .grid-item {
+   
+    text-align: center;
+  }
+  .card1{
+    width: 400px;
+    height: 400px;
+   
+  }
+  .card2{
+    width: 400px;
+    height: 400px;
+   
+  }
+  .card3{
+    width: 400px;
+    height: 400px;
+    
+  }
+  .grid-item1{
+    margin-top: auto;
+  }
+.hakkimda{
+  text-align: center;
+  display: grid;
+}
